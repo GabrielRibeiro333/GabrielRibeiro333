@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou Gabriel Ribeiro
 
 ⚡ **Estudande do Segundo Período de Análise e Desenvolvimento de Sistemas,
-Universidade UNINASSAU - Aracaju-SE
+Universidade UNINASSAU - Aracaju-SE**
 --
 ## 🌐 Onde me encontrar
 
